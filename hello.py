@@ -1,4 +1,4 @@
 def main():
-    print('Hello class, My Name is Roman Martushev!')
+    print('Hello from the CS Lab')
 
 main()
