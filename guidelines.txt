@@ -1,0 +1,31 @@
+1. Create Github account
+2. Find and fork project romanmartushev/git-python-lab
+3. Copy to local git clone [Project-name]
+4. Add a line to hello.py - print('Hello class, My Name is [your name here]!')
+5. Add file to be commited, git add hello.py or git add .
+6. commit the work git commit -m "[enter descriptive message here]"
+7. Push the work to your repository on Github git push origin master or git push
+8. see that the project was updated
+9. Make a pull request to main repository romanmartushev/git-python-lab
+10. See that all changes from all students were integrated into the file
+11. pull those changes into you repository and down to local
+12. Run and see that all messages from all students is visible
+--------------------------------------------------------------------------------
+IF ENOUGH TIME
+1. Create new repository locally or on Github
+2. Then push to Github or clone from Github
+IF CREATE LOCALLY
+1. mkdir [project-name]
+2. cd [project-name]
+3. git init
+4. git add remote [url to project]
+5. git add .
+6. git commit -m "first commit"
+7. git push origin master
+IF CREATE ON GITHUB
+1. Create new repository on Github
+2. git clone [project-name]
+3. make changes
+4. git add .
+5. git commit -m "[description of changes]"
+6. git push origin master
